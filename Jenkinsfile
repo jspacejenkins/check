@@ -1,4 +1,4 @@
 node{
     stage 'Init'
-    sh "echo TEST!"
+    sh "echo push now!"
 }
