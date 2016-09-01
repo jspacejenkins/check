@@ -1,4 +1,4 @@
 node{
     stage 'Init'
-    sh "echo one more!"
+    sh "echo retry."
 }
